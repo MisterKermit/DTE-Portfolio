@@ -14,3 +14,7 @@ body {
 .navbar-header {
     margin-top: 4px;
 }
+
+.navbar-brand {
+    margin-left: 4px;
+}
