@@ -26,4 +26,11 @@ body {
     top:0;
 }
 
+.row {
+    background-color: green;
+}
+
+.column {
+    background-color: blue;
+}
 
