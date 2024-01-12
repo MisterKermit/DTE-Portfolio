@@ -32,7 +32,7 @@
 }
 
 #sidebar .toggle-btn {
-    position: relative;
+    position: absolute;
     top: 30px;
     left: 330px;
 }
