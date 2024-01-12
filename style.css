@@ -29,7 +29,8 @@ body {
 
 .column {
     background-color: blue;
-    padding: 100px;
+    padding: 60px;
+    margin-top: 60px;
 }
 
 .container-fluid {
